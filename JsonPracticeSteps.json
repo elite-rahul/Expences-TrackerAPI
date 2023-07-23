@@ -1,0 +1,55 @@
+// Below I/m showing using Steps one by one
+
+// ########################## Step--1 --> SIGN UP --> User class--> work--> one row add in user table
+{
+    "userFirstName": "Rahul",
+    "userLastName": "Shukla",
+    "userAge": 23,
+    "userEmail": "sikroharrahul@gmail.com",
+    "username": "elite",
+    "userPassword": "Rahul@123"
+}
+
+// 2,,---
+{
+    "userFirstName": "Rakesh",
+    "userLastName": "Chaudhary",
+    "userAge": 23,
+    "userEmail": "rakeshchau144@gmail.com",
+    "username": "rakesh144",
+    "userPassword": "Rakesh@321"
+}
+// 3---------
+{
+    "userFirstName": "Aman",
+    "userLastName": "Chauhan",
+    "userAge": 24,
+    "userEmail": "amanchauhan056.com",
+    "username": "aman056",
+    "userPassword": "Aman@123"
+}
+
+// 4_---
+{
+    "userFirstName": "Shivam",
+    "userLastName": "Kumar",
+    "userAge": 25,
+    "userEmail": "shivamsingh087.com",
+    "username": "Shivam87",
+    "userPassword": "Shivam@321"
+}
+
+
+// useremail -->it is wrong but we are getting by username and its work smoothly
+{
+    "userUsername": "Shivam87",
+    "userPassword": "Shivam@321"
+}
+
+// 2---
+
+{
+    "userUsername": "aman056",
+    "userPassword": "Aman@123"
+}
+
